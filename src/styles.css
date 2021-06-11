@@ -107,6 +107,10 @@ button:hover {
   transition: 150ms ease-in-out;
   cursor: pointer;
 }
+a {
+  color: beige;
+  text-decoration: none;
+}
 small {
   font-size: 20px;
 }
